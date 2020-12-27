@@ -1,0 +1,8 @@
+reports/
+/myenvpy3/
+logs/
+__pycache__/
+NOTES
+.idea
+*.pyc
+*.log
